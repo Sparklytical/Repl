@@ -42,7 +42,7 @@ bubbleSort([8,1,4,2,3,4,5,6,7]);
 
 
 // Most basic type
-/*
+
 const swap=(arr,idx1,idx2)=> {
   
   for(let i=0;i<arr.length;i++) {
@@ -57,4 +57,3 @@ const swap=(arr,idx1,idx2)=> {
   }
   return arr
 }
-*/
